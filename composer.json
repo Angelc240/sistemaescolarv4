@@ -1,0 +1,16 @@
+{
+    "name": "juan/sistemaescolarv4",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ngel Celis",
+            "email": "celisflow0@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.18",
+        "illuminate/events": "^8.18",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.3"
+    }
+}
